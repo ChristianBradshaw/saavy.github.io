@@ -166,7 +166,15 @@ footer li{
 
 footer .fa{
   font-size: 30px;
+  color: #666;
 }
+
+footer .fa:hover{
+  color: white;
+  transition: color 0.5s;
+}
+
+
 
 /*mediaQueries*/
 

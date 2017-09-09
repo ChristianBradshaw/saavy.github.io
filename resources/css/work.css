@@ -208,8 +208,15 @@ footer li{
   font-size: 14px;
   padding-top: 10px;
 }
+
 footer .fa{
   font-size: 30px;
+  color: #666;
+}
+
+footer .fa:hover{
+  color: white;
+  transition: color 0.5s;
 }
 
 /*footer*/
