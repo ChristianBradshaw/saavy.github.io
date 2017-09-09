@@ -80,8 +80,13 @@ li{
 .coinText{
   margin: 0;
   padding: 13% 4%;
-  color: black;
-  background: url(https://christianbradshaw.github.io/saavy.github.io/resources/img/coin.jpeg);
+  color: white;
+  background: url('/resources/img/coin.jpg');
+  text-shadow: 10px 10px 15px black;
+}
+
+.coinText .btn{
+  text-shadow: none;
 }
 
 .coinWrap{
