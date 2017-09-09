@@ -27,14 +27,6 @@ li{
 }
 
 
-.jumbotron{
-  background: url('/resources/img/hero.jpeg') no-repeat center center;
-  background-size: cover;
-  height: 90vh;
-  padding-top: 0;
-  border-radius: 0;
-}
-
 .spotlight, .testimonials{
   background: #E9EBED;
 }

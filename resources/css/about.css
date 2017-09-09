@@ -4,7 +4,7 @@ body {
 }
 
 .jumbotron{
-  background: url('/resources/img/aboutHero.jpeg') no-repeat center center;
+  background: url('https://christianbradshaw.github.io/saavy.github.io/resources/img/aboutHero.jpeg') no-repeat center center;
   background-size: cover;
   height: 62vh;
   padding-top: 0;
