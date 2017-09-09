@@ -1,0 +1,246 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  overflow-x: hidden;
+}
+
+.jumbotron{
+  background: url('/resources/img/serviceHeor.jpeg') no-repeat center center;
+  background-size: cover;
+  height: 60vh;
+  padding-top: 0;
+  border-radius: 0;
+}
+
+ol,ul{
+  list-style: none;
+}
+
+.jumbotron h1{
+  padding-top: 25vh;
+}
+
+.spotlight, .testimonials{
+  background: #E9EBED;
+}
+
+.card-img-top{
+  height: 67px;
+  width: 67px;
+  margin: 0 auto;
+}
+
+/*navbar*/
+
+.active{
+  border-bottom: solid #2F97DC;
+}
+
+.nav-item{
+  padding: 7px 20px;
+  font-size: 15px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.navbar .btn{
+  text-transform: uppercase;
+  border-radius: 100px;
+  padding: 7px 20px;
+  font-weight: 700;
+}
+
+.navbar-brand{
+  filter: brightness(20%);
+}
+
+/*navbar*/
+
+/*hr*/
+
+.hrRed{
+  color: #F44138;
+  background-color: #F44138;
+  height: 3px;
+  width: 7%;
+  margin: 0 0 25px;
+}
+.hrBlue{
+  color: #2F97DC;
+  background-color:  #2F97DC;
+  height: 3px;
+  width: 7%;
+  margin: 35px auto;
+}
+.hrGreen{
+  color: #72B085;
+  background-color: #72B085;
+  height: 3px;
+  width: 7%;
+  margin: 0 0 25px;
+}
+
+/*hr*/
+
+.display-4{
+  font-size: 34px;
+  padding-top: 5px;
+}
+
+/*weHelp*/
+.weHelp{
+  padding: 0 0 290px 83px;
+  margin-top: 75px;
+}
+/*weHelp*/
+
+/*cards*/
+
+.cards{
+  position: relative;
+  margin-top: -150px;
+}
+
+.cards ul{
+  padding: 0;
+}
+
+.card-body{
+  padding: 90px 35px 40px;
+}
+
+.card-title{
+  font-weight: 400;
+  margin: 0 0 10px;
+  line-height: 30px;
+  font-size: 23px;
+}
+
+.weWork{
+  background: #e9ebed;
+  margin-top: -200px
+}
+
+.weText{
+  width: 65%;
+  margin: 0 auto;
+  color: #6F7071;
+  line-height: 1.8rem;
+  letter-spacing: .01rem;
+  font-size: 18px;
+}
+
+.weTextMain{
+  color: #6F7071;
+  line-height: 1.8rem;
+  font-size: 18px;
+}
+
+.weWork h1{
+  padding-top: 350px;
+}
+
+.grey-bg{
+  background: #E9EBED;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  margin-left: -60px;
+  top: -60px;
+  line-height: 115px;
+}
+
+.allCards{
+  margin-top: -50vh;
+}
+
+/*cards*/
+
+/*borderColors*/
+
+.borderRed{
+  border-bottom: 4px solid;
+  border-color: #F44138;
+}
+
+.borderGreen{
+  border-bottom: 4px solid;
+  border-color: #72B085;
+}
+
+
+.borderBlue{
+  border-bottom: 4px solid #2F97DC;
+}
+
+
+.borderPurple{
+  border-bottom: 4px solid;
+  border-color: #9E00EA;
+}
+
+/*/borderColors*/
+
+/*wrapper*/
+
+.wrapper{
+  padding: 50px;
+}
+
+/*wrapper*/
+
+/*weDo*/
+
+.weDo{
+  background: #e9ebed; 
+}
+
+.weDo h5{
+  font-weight: 400;
+}
+
+.icon{
+  float: left;
+}
+
+/*weDo*/
+
+/*footer*/
+
+.darkBlue h1{
+  padding: 40px 60px 50px;
+  margin-top: 10px;
+}
+.lightBlue{
+  background: #3287C4;
+}
+.lightBlue p{
+  margin-left: 75%;
+  font-weight: 700;
+  font-size: 12px;
+}
+.darkBlue{
+  background: #2E7CB4;
+}
+.footerMain{
+  background: #323435;
+  padding-top: 48px;
+  padding-bottom: 28px;
+}
+footer h2{
+  color: #FFFFFF;
+}
+footer p, footer li{
+  color: #8b9197;
+}
+footer li{
+  font-size: 14px;
+  padding-top: 10px;
+}
+footer .fa{
+  font-size: 30px;
+}
+
+/*footer*/
